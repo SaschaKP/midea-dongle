@@ -7,7 +7,6 @@ I've made a lot of changes to the board:
 * the board will fit inside the original spacer, occuping the original space, but without casing
 * all pads can be soldered with hot-air gun and soldering paste, they are slightly larger for that purpose in mind
 * it uses an ESP32 C6 and the software for making it work with this dongle (esphome) can be found [in my repository](https://github.com/SaschaKP/esphome-midea-direct)
-I've made changes to the board, to fit its size to the Midea original dongle spacer. List of changes below:
 * Converted the KiCad project to KiCad 9
 * All pads are now slighly larger to allow for easier soldering with hot air and soldering paste, making it possible to do it at home
 
