@@ -8,7 +8,6 @@ I've made a lot of changes to the board:
 * all pads can be soldered with hot-air gun and soldering paste, they are slightly larger for that purpose in mind
 * it uses an ESP32 C6 and the software for making it work with this dongle (esphome) can be found [in my repository](https://github.com/SaschaKP/esphome-midea-direct)
 * Converted the KiCad project to KiCad 9
-* All pads are now slighly larger to allow for easier soldering with hot air and soldering paste, making it possible to do it at home
 
 For this particular repository you can use an ESP32 C6 MINI (WT0132C6-S5) that can be used as a drop-in replacement for ESP-12F
 
