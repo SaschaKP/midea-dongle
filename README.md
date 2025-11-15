@@ -12,16 +12,16 @@ I've made a lot of changes to the board:
 For this particular repository you can use an ESP32 C6 MINI (WT0132C6-S5) that can be used as a drop-in replacement for ESP-12F
 
 That's what the board now looks like:
-![How it looks](https://github.com/SaschaKP/midea-dongle/blob/master/images/3d_model.png?raw=true)
+![How it looks](https://github.com/SaschaKP/midea-dongle/blob/main/images/3d_model.png?raw=true)
 
 ## PCB and Parts
 * The buttons are 3x4mm in size. Height is up to your liking. Can easily be found on AliExpress:
-![Buttons](https://github.com/SaschaKP/midea-dongle/blob/master/images/buttons.png?raw=true)
+![Buttons](https://github.com/SaschaKP/midea-dongle/blob/main/images/buttons.png?raw=true)
 * Specs of the USB jack, can also be found on AliExpress:
-![USB Jack](https://github.com/SaschaKP/midea-dongle/blob/master/images/usb-jack.png?raw=true)
+![USB Jack](https://github.com/SaschaKP/midea-dongle/blob/main/images/usb-jack.png?raw=true)
 * LDO Caps (C1 & C2) can be either tantalum or ceramic: Officially should be tantalum, but ceramic work just fine. 
 * Remember that the WT0132C6-S5 (ESP32 C6 MINI) is interchangeable with ESP-12F or ESP-07 which offers an external antenna:
-![Boards with ESP-07 and ESP-12F](https://github.com/SaschaKP/midea-dongle/blob/master/images/esp-07-12.jpg?raw=true)
+![Boards with ESP-07 and ESP-12F](https://github.com/SaschaKP/midea-dongle/blob/main/images/esp-07-12.jpg?raw=true)
 
 I **highly** recommend taking a look at the iBOM file that can also be found in the "production-files" folder. It makes sourcing the parts and soldering so much easier!
 
