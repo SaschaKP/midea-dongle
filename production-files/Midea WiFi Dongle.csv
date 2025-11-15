@@ -1,0 +1,9 @@
+"Id";"Riferimento";"Impronta";"Quantità";"Valore";"Produttore";
+1;"U2";"WT0132C6-S5";1;"WT0132C6-S5";;;
+2;"C1,C2";"CP_1.62x0.84mm_0603_1608metric_HandSolder";2;"22uF";;;
+3;"U1";"SOT-223";1;"AMS1117-3.3";;;
+4;"R2,R5,R6,R8,R1,R4,R7,R3";"R_0402_1005Metric_Pad0.72x0.64mm_HandSolder";8;"10k";;;
+5;"Q2,Q1";"SOT-23";2;"BSS138";;;
+6;"J1";"USB_A_CNCTech_1001-011-01101_Horizontal";1;"USB_A";;;
+7;"SW2,SW1";"SW_Push_SPST_NO_Alps_SKRK";2;"SW_Push";;;
+8;"C3";"CP_1.62x0.84mm_0603_1608Metric";1;"100nF";;;
