@@ -27,7 +27,7 @@ That's what the board now looks like:
 I **highly** recommend taking a look at the iBOM file that can also be found in the "production-files" folder. It makes sourcing the parts and soldering so much easier!
 
 ## Making of PCB
-You will find some files to print for classic paper-toner-iron transfer on copper for etching, or you can also use a more modern approach with a 3D printer (with 0.25 or less nozzle) with spray painting, etching and subsequent protective paint.
+You will find some files to print for classic paper-toner-iron transfer on copper for etching, or you can also use a more modern approach with a 3D printer (with 0.25 or less nozzle) with spray painting or top of the model to track the negative part, etching as usual with acid and subsequent protective paint upon tracks to avoid potential short circuits later.
 If you are familiar with this kind of prototyping you will find what you need inside the print_file directory
 ![3D models for etching and protective layer](https://github.com/SaschaKP/midea-dongle/blob/main/images/3D_print_models.png?raw=true)
 
