@@ -13,6 +13,7 @@ For this particular repository you can use an ESP32 C6 MINI (WT0132C6-S5) that c
 
 That's what the board now looks like:
 ![How it looks](https://github.com/SaschaKP/midea-dongle/blob/main/images/3d_model.png?raw=true)
+![Real Object DIY](https://github.com/SaschaKP/midea-dongle/blob/main/images/dongle-diy.png?raw=true)
 
 ## PCB and Parts
 * The buttons are 3x4mm in size. Height is up to your liking. Can easily be found on AliExpress:
