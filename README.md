@@ -29,7 +29,7 @@ I **highly** recommend taking a look at the iBOM file that can also be found in 
 ## Making of PCB
 You will find some files to print for classic paper-toner-iron transfer on copper for etching, or you can also use a more modern approach with a 3D printer (with 0.25 or less nozzle) with spray painting, etching and subsequent protective paint.
 If you are familiar with this kind of prototyping you will find what you need inside the print_file directory
-![3D models for etching and protective layer](https://github.com/SaschaKP/midea-dongle/blob/main/images/3d_model.png?raw=true)
+![3D models for etching and protective layer](https://github.com/SaschaKP/midea-dongle/blob/main/images/3D_print_models.png?raw=true)
 
 ## Flashing
 Flashing the ESP can be done using any USB-to-UART adapter. I recommend getting an USB-A-socket cable with open ends, so you can crimp a dupont at the open end.
