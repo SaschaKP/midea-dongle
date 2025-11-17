@@ -654,9 +654,9 @@
       "plot": "./gerbers",
       "pos_files": "../production-files/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Midea WiFi Dongle.stl",
       "svg": "",
-      "vrml": ""
+      "vrml": "Midea WiFi Dongle.wrl"
     },
     "page_layout_descr_file": ""
   },

@@ -70,7 +70,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_57555551)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions yes)
@@ -6554,7 +6554,7 @@
 		(layer "Edge.Cuts")
 		(uuid "de249143-ff7e-491b-ba3a-b61d58bd2d6d")
 	)
-	(gr_text "Original Design by\nRené Klootwijk (2020)"
+	(gr_text "Design by\nSascha Puligheddu (2025)"
 		(at 153.9 97.4075 0)
 		(layer "B.SilkS")
 		(uuid "53eb25eb-6e8b-4efd-8c27-0dffb601de93")
@@ -6566,25 +6566,13 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Midea WiFi Dongle v3 mono-sheet"
+	(gr_text "Midea Dongle mono-sheet"
 		(at 153.9 94 0)
 		(layer "B.SilkS")
 		(uuid "7ec987c6-4dc7-4f4f-93eb-a8af8fa41d38")
 		(effects
 			(font
 				(size 1.016 1.016)
-				(thickness 0.1524)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "v2 Changes by Sascha (2025)"
-		(at 153.9 101.15 0)
-		(layer "B.SilkS")
-		(uuid "f26d3212-b33f-4ddd-a601-3b6f04f5c6f6")
-		(effects
-			(font
-				(size 0.8 0.8)
 				(thickness 0.1524)
 			)
 			(justify mirror)
@@ -6971,20 +6959,20 @@
 		(uuid "75cbc957-50ea-4b95-928e-e1c2d3759d6a")
 	)
 	(segment
+		(start 158.4 118.05)
+		(end 157.4 119.05)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "7c2f8a88-5083-4133-8287-67ae6c6e8100")
+	)
+	(segment
 		(start 158.4 115.3975)
 		(end 158.4 118.05)
 		(width 0.4)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "7c7538c2-5fd5-42c3-a57f-8a4b6e2f86b9")
-	)
-	(segment
-		(start 158.4 118.05)
-		(end 157.4 119.05)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "8a070778-bc90-4d51-8639-8f76099dfb9f")
 	)
 	(segment
 		(start 152.475 108.264)
